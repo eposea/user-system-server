@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: eposea
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [ annotation-api, app-name, data, data-r2dbc, gradle, http-client, jackson-databind, junit, kotlin, kotlin-application, kotlin-build, micronaut-build, netty-server, postgres, r2dbc, reactor, reactor-http-client, readme, shade, slf4j-simple, testcontainers, yaml ]
